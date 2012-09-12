@@ -260,3 +260,4 @@ vendor
   subdirectory. If the app has frozen rails, those gems also go here, under
   vendor/rails/. This directory is in the load path.
 this is 1st change
+this is new text from cool_branch
